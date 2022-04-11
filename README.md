@@ -16,14 +16,27 @@
 I'm Zufar, big data student and data scientist from Kazakhstan.
 
 **Experienced in:**  
-
-<img alt="Python" align="left" height="20" src="/icons/Python-logo-notext.svg">
-<img alt="Jupyter Notebook" align="left" height="20" src="/icons/Jupyter_logo.svg">
-<img alt="C++" align="left" height="20" src="/icons/c_plus_plus.svg">
-<img alt="MS PowerBi" align="left" height="20" src="/icons/power_bi.svg">
-<img alt="SQL" align="left" height="20" src="/icons/postgresql-icon.svg">
-<img alt="GCP" align="left" height="20" src="/icons/google_cloud-icon.svg">
-<img alt="Elastic Stack" align="left" height="20" src="/icons/elastic-stack.svg">
+<a href="https://www.python.org/">
+  <img alt="Python" align="left" height="20" src="/icons/Python-logo-notext.svg">
+</a>
+<a href="https://jupyter.org/">
+  <img alt="Jupyter Notebook" align="left" height="20" src="/icons/Jupyter_logo.svg">
+</a>
+<a href="https://isocpp.org/">
+  <img alt="C++" align="left" height="20" src="/icons/c_plus_plus.svg">
+</a>
+<a href="https://powerbi.microsoft.com/">
+  <img alt="MS PowerBi" align="left" height="20" src="/icons/power_bi.svg">
+</a>
+<a href="https://www.postgresql.org/">
+  <img alt="SQL" align="left" height="20" src="/icons/postgresql-icon.svg">
+</a>
+<a href="https://cloud.google.com/">
+  <img alt="GCP" align="left" height="20" src="/icons/google_cloud-icon.svg">
+</a>
+<a href="https://www.elastic.co/elastic-stack/">
+  <img alt="Elastic Stack" align="left" height="20" src="/icons/elastic-stack.svg">
+</a>
 <br />
 <br />
 <br />
