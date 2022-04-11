@@ -23,7 +23,7 @@ I'm Zufar, big data student and data scientist from Kazakhstan.
 <img alt="MS PowerBi" align="left" height="20" src="/icons/power_bi.svg">
 <img alt="SQL" align="left" height="20" src="/icons/postgresql-icon.svg">
 <img alt="GCP" align="left" height="20" src="/icons/google_cloud-icon.svg">
-
+<img alt="Elastic Stack" align="left" height="20" src="/icons/elastic-stack.svg">
 <br />
 <br />
 <br />
