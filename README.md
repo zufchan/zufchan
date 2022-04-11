@@ -16,6 +16,7 @@
 I'm Zufar, big data student and data scientist from Kazakhstan.
 
 **Experienced in:**  
+
 <a href="https://www.python.org/">
   <img alt="Python" align="left" height="20" src="/icons/Python-logo-notext.svg">
 </a>
