@@ -38,6 +38,9 @@ I'm Zufar, big data student and data scientist from Kazakhstan.
 <a href="https://www.elastic.co/elastic-stack/">
   <img alt="Elastic Stack" align="left" height="20" src="/icons/elastic-stack.svg">
 </a>
+<a href="https://colab.research.google.com/">
+  <img alt="Google Colab" align="left" height="20" src="/icons/google-colab.svg">
+</a>
 <br />
 <br />
 <br />
