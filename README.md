@@ -23,6 +23,9 @@ I'm Zufar, data scientist from Kazakhstan, currently working at <a href="https:/
 <a href="https://jupyter.org/">
   <img alt="Jupyter Notebook" align="left" height="20" src="/icons/Jupyter_logo.svg">
 </a>
+<a href="https://www.tensorflow.org/">
+  <img alt="Tensorflow" align="left" height="20" src="/icons/Tensorflow_logo.svg">
+</a>
 <a href="https://isocpp.org/">
   <img alt="C++" align="left" height="20" src="/icons/c_plus_plus.svg">
 </a>
