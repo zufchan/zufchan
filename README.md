@@ -13,7 +13,7 @@
 
 ### Hello there!
 
-I'm Zufar, big data student and data scientist from Kazakhstan.
+I'm Zufar, data scientist from Kazakhstan, currently working at <a href="https://kaspi.kz/">Kaspi.kz</a>.
 
 **Experienced in:**  
 
