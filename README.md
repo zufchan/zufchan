@@ -47,11 +47,3 @@ I'm Zufar, data scientist from Kazakhstan, currently working at <a href="https:/
 <br />
 <br />
 <br />
-
-<a href="https://github.com/zufchan">
-  <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zufchan&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=6px" />
-</a>
-
-<a href="https://github.com/zufchan">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=zufchan&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=6px" />
-</a>
