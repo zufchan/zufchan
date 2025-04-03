@@ -13,7 +13,7 @@
 
 ### Hello there!
 
-I'm Zufar, data scientist from Kazakhstan, currently working at <a href="https://kaspi.kz/">Kaspi.kz</a>.
+I'm Zufar, machine learning engineer from Kazakhstan, currently working at <a href="https://www.tbank.ru/">T-Bank</a>.
 
 **Experienced in:**  
 
